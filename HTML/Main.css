@@ -1,0 +1,23 @@
+/* h1{
+    font-size: 100px;
+    color: red;
+} this is a external code block*/
+
+#bruh  {                     /*ID call out syntax*/
+    font-size: 100px;                 
+}
+#bruh{
+    font-size: 50px;
+}
+.by{
+    color: greenyellow;
+    font-size: 20px;
+}
+
+/* syntax de goi mot tag nam trong phan nao do cua code HTML can dc CSS vd: div .class{}*/
+/* cách gọi để thực hiện code sẽ chia theo thang điểm tag-1
+                                                      class-10
+                                                      id-100
+                                                      Inline-1000
+    Internal và external thì thực hiện câu lệnh khi câu lệnh đó mới được thêm vào hoặc thêm vào codeblock trễ nhất 
+/* *{} đổi hết tất cả các tag nhưng điểm là 0 => độ ưu tiên bé nhất 

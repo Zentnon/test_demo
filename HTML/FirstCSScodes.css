@@ -1,0 +1,32 @@
+body{
+   background-image: url(pixel-jeff-night-shift.gif);
+   background-size: cover;
+}
+h1{
+    background: radial-gradient(aqua,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    background: radial-gradient(aqua,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#p1{
+    background: radial-gradient(aqua,lightgreen);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+.ac{
+    background: radial-gradient(aqua,lightgreen);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+.ad{
+    background: radial-gradient(aqua,lightgreen);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+a{
+    margin: 50%;
+}
